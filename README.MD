@@ -6,3 +6,4 @@ The PiFi Digi+ card I bought came with the acrylic case sold at the link above. 
 
 The Pi mounts to the base using M2.5x6mm screws, and the base connects to the brass standoffs using a M3x8mm Allen screw.
 
+![Final Assembly](Pics/Assembly.jpg)
